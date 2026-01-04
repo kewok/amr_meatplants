@@ -1,0 +1,30 @@
+On April 11 2025, access:
+
+https://catalog.data.gov/dataset?publisher=Food%20Safety%20and%20Inspection%20Service
+
+Then, manually go to the websites for:
+	raw beef products, 
+	raw poultry products, 
+	egg sampling, 
+	siluriformes and 
+	raw pork products.
+
+# The metadata data website links to the following pages.
+https://www.fsis.usda.gov/news-events/publications/raw-beef-sampling
+https://www.fsis.usda.gov/news-events/publications/raw-poultry-sampling
+https://www.fsis.usda.gov/news-events/publications/egg-product-sampling-data
+https://www.fsis.usda.gov/news-events/publications/siluriformes-product-sampling
+https://www.fsis.usda.gov/news-events/publications/raw-pork-products-sampling
+
+# The archived dataset zip files were then manually downloaded.
+
+# The raw JSON files used for the analyses to prepare the seasonal_amr_noGuam.csv spreadsheet file can be found at:
+# 10.5281/zenodo.6944289
+
+On April 21 2025, access:
+
+# Zip codes were obtained from:
+https://download.geonames.org/export/zip/
+
+# Establishment data were obtained from:
+https://www.fsis.usda.gov/inspection/establishments/meat-poultry-and-egg-product-inspection-directory

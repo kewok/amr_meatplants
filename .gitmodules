@@ -1,0 +1,3 @@
+[submodule "gnnwr"]
+	path = gnnwr
+	url = https://kwokamoto@bitbucket.org/kwokamoto/gnnwr.git
